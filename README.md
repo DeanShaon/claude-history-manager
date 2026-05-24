@@ -1,3 +1,5 @@
+[English](README.en.md) | 简体中文
+
 # Claude History Manager
 
 > 本地私有化的 Claude Code 对话历史管理器 — 浏览、搜索、导出你的 Claude Code 本地提问记录
